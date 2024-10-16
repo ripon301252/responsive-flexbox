@@ -1,0 +1,163 @@
+
+.container{
+    border: 2px solid salmon;
+    display: flex;
+    
+}
+.box{
+    border: 2px dashed blue;
+    width: 100px;
+    height: 100px;
+}
+
+.container-1{
+    border: 2px solid salmon;
+    display: flex;
+    justify-content: flex-end;   
+}
+.gox{
+    border: 2px dashed blue;
+    width: 100px;
+    height: 100px;
+}
+
+.container-2{
+    border: 2px solid salmon;
+    display: flex;
+    justify-content: center;
+}
+.dox{
+    border: 2px dashed blue;
+    width: 100px;
+    height: 100px;
+}
+
+.container-3{
+    border: 2px solid salmon;
+    display: flex;
+    justify-content: space-around;
+}
+.kox{
+    border: 2px dashed blue;
+    width: 100px;
+    height: 100px;
+}
+
+.container-4{
+    border: 2px solid salmon;
+    display: flex;
+    justify-content: space-between;
+}
+.Lox{
+    border: 2px dashed blue;
+    width: 100px;
+    height: 100px;
+}
+
+.container-5{
+    border: 2px solid salmon;
+    display: flex;
+    justify-content: space-evenly;
+}
+.fox{
+    border: 2px dashed blue;
+    width: 100px;
+    height: 100px;
+}
+
+/*---------------------*/
+
+.container-6{
+    border: 2px solid salmon;
+    height: 250px;
+    display: flex;
+    
+}
+.box{
+    border: 2px dashed blue;
+    width: 100px;
+    height: 100px;
+}
+
+.container-7{
+    border: 2px solid salmon;
+    height: 250px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.gox{
+    border: 2px dashed blue;
+    width: 100px;
+    height: 100px;
+}
+
+.container-8{
+    border: 2px solid salmon;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dox{
+    border: 2px dashed blue;
+    width: 100px;
+    height: 100px;
+}
+
+
+.container-9{
+    border: 2px solid salmon;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.kox{
+    border: 2px dashed blue;
+    width: 100px;
+    height: 100px;
+}
+
+
+.container-10{
+    border: 2px solid salmon;
+    height: 500px;
+    display: flex;
+    flex-direction: column-reverse;
+    
+}
+.Lox{
+    border: 2px dashed blue;
+    width: 100px;
+    height: 100px;
+}
+
+.container-11{
+    border: 2px solid salmon;
+    height: 500px;
+    display: flex;
+    flex-direction: row-reverse;
+    
+}
+.fox{
+    border: 2px dashed blue;
+    width: 100px;
+    height: 100px;
+}
+
+
+.container-12{
+    border: 2px solid salmon;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.fox{
+    border: 2px dashed blue;
+    width: 100px;
+    height: 100px;
+}
+
+
